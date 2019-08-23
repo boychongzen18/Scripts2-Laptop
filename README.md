@@ -12,11 +12,11 @@
 
 # Tampilan Script Python2 & Opok & Kuota Maxstream
 ![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Laptop/master/uler.jpg)
-# Tampilan Connecting 
+# Tampilan Connecting Youtube
 ![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Laptop/master/yt.jpg)
 # Tampilan Script Python2 & Saweran Kuota Iflix 
 ![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Laptop/master/uler1.jpg)
-# Tampilan Connecting 
+# Tampilan Connecting Facebook
 ![be](https://raw.githubusercontent.com/boychongzen18/Scripts2-Laptop/master/fb.jpg)
 
 # Tutorial PdaNet For Android : https://github.com/boychongzen18/Pdanet-For-Andoid
